@@ -4,7 +4,7 @@ A simple, responsive todo application built with vanilla HTML, CSS, and JavaScri
 
 ## 🚀 Live Demo
 
-[View Live Application](https://yourusername.github.io/your-repo-name)
+[View Live Application](https://mountstack.github.io/todo-app/)
 
 ## ✨ Features
 
